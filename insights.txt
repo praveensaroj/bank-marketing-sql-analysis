@@ -1,0 +1,29 @@
+## Key Insights
+
+### 1. Customer Segmentation
+Students and retired customers have more than double the average conversion rate, but their small share (2–4%) limits overall impact.  
+Blue-collar customers have the lowest conversion rate (~6.9%) despite forming nearly 20% of the customer base.
+
+### 2. Campaign Effectiveness
+Conversion remains stable (10–13%) for 1–3 contacts but declines with additional calls, indicating customer fatigue.
+
+### 3. Call Duration Impact
+Calls longer than 5 minutes achieve ~27% conversion compared to ~7% for shorter calls.
+
+### 4. Previous Campaign Outcome
+Customers with previous successful outcomes show the highest likelihood of conversion.
+
+### 5. Economic Influence
+Lower interest rates are associated with higher conversion rates, while higher rates reduce conversion significantly.
+
+### 6. Combined Insight
+Students with longer calls show ~50% conversion but should be targeted selectively due to cost and size.
+
+
+## Recommendations
+
+- Focus on high-conversion segments  
+- Avoid excessive follow-ups  
+- Prioritize longer, meaningful calls  
+- Adjust strategy based on economic conditions  
+- Improve targeting for low-performing segments  
